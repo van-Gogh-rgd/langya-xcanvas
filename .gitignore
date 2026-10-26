@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+AICANVAS-*.json
+work/
+*.zip
+*.mp4
+*.mov
